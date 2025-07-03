@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Webroot Web PC'
+project = 'Webroot Web'
 copyright = '2025'
 author = 'Capel Boake'
 
